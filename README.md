@@ -1,0 +1,2 @@
+About
+This is a simple Java-based calculator that performs basic arithmetic operations, including: ✔️ Addition (+) ✔️ Subtraction (-) ✔️ Multiplication (*) ✔️ Division (/) Additionally, an advanced features branch was created to add: ✔️ Modulus (%) ✔️ Exponentiation (^)
